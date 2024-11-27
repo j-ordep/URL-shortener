@@ -1,6 +1,6 @@
 ## UrlShortener com AWS Lambda e API Gateway
 
-Este projeto Java implementa um serviço de encurtador de URLs utilizando AWS Lambda, API Gateway, S3. A ideia principal é fornecer uma maneira simples de gerar links encurtados e realizar o redirecionamento para o URL original.
+Este projeto utiliza Java com Maven e Lombok implementando um serviço de encurtador de URLs utilizando AWS Lambda, API Gateway e S3 (Bucket). A ideia principal é fornecer uma maneira simples de gerar links encurtados e realizar o redirecionamento para o URL original.
 
 ### Tecnologias utilizadas
 
